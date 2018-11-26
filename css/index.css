@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+}
+.header{
+    height: 60px;
+    background-color: lightcyan;
+    line-height: 60px;
+    text-align: center;
+    color: #333333;
+}
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border:1px solid silver;
+    background-image: url(E://GithubPro//housework1/images/timg2.jpg);
+    padding: 10px;
+}
+.search{
+    width: 280px;
+    height: 30px;
+}
+.btn{
+    width: 100px;
+    height: 34px;
+    background-color: aquamarine;
+    border: 1px solid springgreen;
+    color: #333;
+}
+.title{
+    color: deepskyblue;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+.images1{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p{
+    color: #333;
+    padding: 5px;
+}
